@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5eefbc23.chunk.css",
+    "main.js": "/static/js/main.2b4777ee.chunk.js",
+    "main.js.map": "/static/js/main.2b4777ee.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a00f3da2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a00f3da2.js.map",
+    "static/css/2.ce4fca9a.chunk.css": "/static/css/2.ce4fca9a.chunk.css",
+    "static/js/2.e15d3b42.chunk.js": "/static/js/2.e15d3b42.chunk.js",
+    "static/js/2.e15d3b42.chunk.js.map": "/static/js/2.e15d3b42.chunk.js.map",
+    "813176be739f4fe83cb5.worker.js": "/813176be739f4fe83cb5.worker.js",
+    "813176be739f4fe83cb5.worker.js.LICENSE.txt": "/813176be739f4fe83cb5.worker.js.LICENSE.txt",
+    "813176be739f4fe83cb5.worker.js.map": "/813176be739f4fe83cb5.worker.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ecce72705a2e0b7e9d1bbaef01529349.js": "/precache-manifest.ecce72705a2e0b7e9d1bbaef01529349.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.ce4fca9a.chunk.css.map": "/static/css/2.ce4fca9a.chunk.css.map",
+    "static/css/main.5eefbc23.chunk.css.map": "/static/css/main.5eefbc23.chunk.css.map",
+    "static/js/2.e15d3b42.chunk.js.LICENSE.txt": "/static/js/2.e15d3b42.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/static/media/1.1b1e4e8d.jpg",
+    "static/media/2.jpg": "/static/media/2.919e08fa.jpg",
+    "static/media/3.jpg": "/static/media/3.d57cba40.jpg",
+    "static/media/4.jpg": "/static/media/4.b10f6061.jpg",
+    "static/media/Species.scss": "/static/media/franchise.2c780ef5.jpg",
+    "static/media/cancel.svg": "/static/media/cancel.1e5c28d5.svg",
+    "static/media/primereact.min.css": "/static/media/line.567f5738.gif",
+    "static/media/logo.svg": "/static/media/logo.4acf4cfd.svg",
+    "static/media/map-icon.5588985a.svg": "/static/media/map-icon.5588985a.svg",
+    "static/media/map.jpg": "/static/media/map.b8fe79c6.jpg",
+    "static/media/no-preview.jpg": "/static/media/no-preview.9e49cb41.jpg",
+    "static/media/theme.css": "/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/placeholder.jpg": "/static/media/placeholder.1cc1cb0f.jpg",
+    "static/media/primeicons.css": "/static/media/primeicons.e5e0e944.svg",
+    "static/media/star.svg": "/static/media/star.0a3a0984.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a00f3da2.js",
+    "static/css/2.ce4fca9a.chunk.css",
+    "static/js/2.e15d3b42.chunk.js",
+    "static/css/main.5eefbc23.chunk.css",
+    "static/js/main.2b4777ee.chunk.js"
+  ]
+}
